@@ -102,8 +102,8 @@ Contributions are welcome! Follow these steps to contribute:
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/cdrcknt/DailyQuotes4u/blob/main/LICENSE) file for details.
 
 ## Developers
-
 Cedric Kent Centeno
+
 ---
 
 Feel free to reach out with any questions, suggestions, or feedback!
