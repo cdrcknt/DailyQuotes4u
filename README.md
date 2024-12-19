@@ -1,11 +1,5 @@
 # DailyQuotes4u
 
-[Live Demo](https://dailyquotes-4u.netlify.app/)  
-
-## Overview
-
-DailyQuotes4u is a modern quote generator web app with an emphasis on simplicity and functionality. Designed with a clean, minimalist aesthetic, it allows users to browse and share inspirational quotes seamlessly. The app includes dark mode support, smooth animations, and is fully responsive to provide an optimal experience across all devices.
-
 ## Features
 
 - **Clean and Minimalist Design**: Built with Tailwind CSS for a polished and modern look.
